@@ -1,0 +1,52 @@
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                  Aminoglycoside                                                                                                  |
++-------------------+------------+--------------------------------+------------+-------------------------+------------------------------------+----------------------+---------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                             | Position in contig   | Phenotype                 | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+------------------------------------+----------------------+---------------------------+-----------------|
+| aac(2')-Ic        |        100 | 546/546                        |        100 | 1..546                  | NODE_1_length_295659_cov_84.622484 | 209620..210165       | Aminoglycoside resistance | U72714          |
++-------------------+------------+--------------------------------+------------+-------------------------+------------------------------------+----------------------+---------------------------+-----------------+
+
+##################### aminoglycoside #####################
+aac(2')-Ic, ID: 100.00 %, Alignment Length/Gene Length: 546/546, Coverage: 100.0, Positions in reference: 1..546, Contig name: NODE_1_length_295659_cov_84.622484, Position: 209620..210165
+
+GTGCACACCCAGGTACACACGGCCCGCCTGGTCCACACCGCCGATCTTGACAGCGAGACC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGCACACCCAGGTACACACGGCCCGCCTGGTCCACACCGCCGATCTTGACAGCGAGACC
+
+CGCCAGGACATCCGTCAGATGGTCACCGGCGCGTTTGCCGGTGACTTCACCGAGACCGAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CGCCAGGACATCCGTCAGATGGTCACCGGCGCGTTTGCCGGTGACTTCACCGAGACCGAC
+
+TGGGAGCACACGCTGGGTGGGATGCACGCCCTGATCTGGCATCACGGGGCGATCATCGCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGGAGCACACGCTGGGTGGGATGCACGCCCTGATCTGGCATCACGGGGCGATCATCGCG
+
+CATGCCGCGGTGATCCAGCGGCGACTGATCTACCGCGGCAACGCGCTGCGCTGCGGGTAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCCGCGGTGATCCAGCGGCGACTGATCTACCGCGGCAACGCGCTGCGCTGCGGGTAC
+
+GTCGAAGGCGTTGCGGTGCGGGCGGACTGGCGGGGCCAACGCCTGGTGAGCGCGCTGTTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCGAAGGCGTTGCGGTGCGGGCGGACTGGCGGGGCCAACGCCTGGTGAGCGCGCTGTTG
+
+GACGCCGTCGAGCAGGTGATGCGCGGCGCTTACCAGCTCGGAGCGCTCAGTTCCTCGGCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GACGCCGTCGAGCAGGTGATGCGCGGCGCTTACCAGCTCGGAGCGCTCAGTTCCTCGGCG
+
+CGGGCCCGCAGACTGTACGCCTCACGCGGCTGGCTGCCCTGGCACGGCCCGACATCGGTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CGGGCCCGCAGACTGTACGCCTCACGCGGCTGGCTGCCCTGGCACGGCCCGACATCGGTA
+
+CTGGCACCAACCGGTCCAGTCCGTACACCCGATGACGACGGAACGGTGTTCGTCCTGCCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTGGCACCAACCGGTCCAGTCCGTACACCCGATGACGACGGAACGGTGTTCGTCCTGCCC
+
+ATCGACATCAGCCTGGACACCTCGGCGGAGCTGATGTGCGATTGGCGCGCGGGCGACGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATCGACATCAGCCTGGACACCTCGGCGGAGCTGATGTGCGATTGGCGCGCGGGCGACGTC
+
+TGGTAA
+||||||
+TGGTAA
+
+
