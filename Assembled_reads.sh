@@ -1,4 +1,5 @@
 #!/bin/bash 
+#for loop to assemble India sequence reads
 
 mkdir -p India/India_reads
 
