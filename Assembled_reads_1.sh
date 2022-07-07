@@ -1,4 +1,5 @@
 #!/bin/bash
+#for loop to assemble Nigeria, USA, Australia, and Germany sequence reads
 
 mkdir -p Nigeria/Nigeria_reads
 mkdir -p Australia/Australia_reads
