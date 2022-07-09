@@ -43,18 +43,22 @@ cd ../India/
 nano India_assembled.sh
 bash India_assembled.sh
 
+cd ../Nigeria/
 #for loop for assembling Nigeria sequence samples
 nano Nigeria_assembled.sh
 bash Nigeria_assembled.sh
 
+cd ../Australia/
 #for loop for assembling Australia sequence samples
 nano Australia_assembled.sh
 bash Australia_assembled.sh
 
+cd ../USA/
 #for loop for assembling USA sequence samples
 nano USA_assembled.sh
 bash USA_assembled.sh
 
+cd ../Germany/
 #for loop for assembling sequence samples
 nano Germany_assembled.sh
 bash Germany_assembled.sh
