@@ -38,14 +38,25 @@ cd ../Australia/
 nano Australia.sh 
 bash Australia.sh
 
-cd ../
+cd ../India/
 #for loop for assembling India sequence samples
-nano Assembled_reads.sh
-bash Assembled_reads.sh
+nano India_assembled.sh
+bash India_assembled.sh
 
-#for loop for assembling Nigeria, USA, Australia, and Germany sequence samples
-nano Assembled_reads_1.sh
-bash Assembled_reads_1.sh
+#for loop for assembling Nigeria sequence samples
+nano Nigeria_assembled.sh
+bash Nigeria_assembled.sh
+
+#for loop for assembling Australia sequence samples
+nano Australia_assembled.sh
+bash Australia_assembled.sh
+
+#for loop for assembling USA sequence samples
+nano USA_assembled.sh
+bash USA_assembled.sh
+
+#for loop for assembling sequence samples
+nano Germany_assembled.sh
+bash Germany_assembled.sh
 
 #export the resulted contigs.fasta file for further analysis through resfinder
-
